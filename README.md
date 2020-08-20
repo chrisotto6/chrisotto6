@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=chrisotto6&theme=cobalt"
+/>
+
 ### Find me all around the web:
 
 - [Twitter](http://twitter.com/MishManners) :bird:
