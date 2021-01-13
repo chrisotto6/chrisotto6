@@ -1,32 +1,9 @@
-### Hi there 👋
-
-- 📫 How to reach me: [Blog Contact Form](https://chrisotto.dev/contact/)
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/wisco_cmo?label=Follow%20%40wisco_cmo&style=social)](https://twitter.com/wisco_cmo)
-- 📸 [Instagram](http://instagram.com/wisco_cmo) 
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisotto6&show_icons=true&theme=dark" alt="chrisotto6" />
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisotto6&layout=compact&hide=html&theme=dark" alt="chrisotto6" />
-<div/>
-<br />
-
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&repo=chrisotto6&countColor=%237B1E7A)
-
-<!--
-**chrisotto6/chrisotto6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi 👋</h1>
+<p><a href="https://www.twitter.com/wisco_cmo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ottochristopher/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/wisco_cmo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@wisco_cmo"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/chrisotto"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.chrisotto.dev">💻 Check out my website</a></p>
+<h2>Latest Blog Posts</h2>
+  <ul>
+    <li><a href=https://chrisotto.dev/gatsby-error-monitoring-with-sentry/>Gatsby Error Monitoring with Sentry</a></li><li><a href=https://chrisotto.dev/debug-gatsby-simulator/>Gatsby Develop with iOS Simulator</a></li><li><a href=https://chrisotto.dev/add-linting-to-create-react-app/>Add Linting to Create-React-App</a></li><li><a href=https://chrisotto.dev/compress-your-images-with-tinify/>Manage image sizes with tinify</a></li><li><a href=https://chrisotto.dev/gatsby-create-an-audience-with-mailchimp/>Gatsby - Create an audience with Mailchimp</a></li>
+  </ul>
+<p><a href="https://www.chrisotto.dev/blog">➡️ More blog posts</a></p>
+<p><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&amp;repo=chrisotto6&amp;countColor=%237B1E7A" alt="Visitors since 11 Nov 2020"></p>
