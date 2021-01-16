@@ -3,7 +3,7 @@
 <p><a href="https://www.chrisotto.dev">💻 Check out my website</a></p>
 <h2>Latest Blog Posts</h2>
   <ul>
-    <li><a href=https://chrisotto.dev/gatsby-error-monitoring-with-sentry/>Gatsby Error Monitoring with Sentry</a></li><li><a href=https://chrisotto.dev/debug-gatsby-simulator/>Gatsby Develop with iOS Simulator</a></li><li><a href=https://chrisotto.dev/add-linting-to-create-react-app/>Add Linting to Create-React-App</a></li><li><a href=https://chrisotto.dev/compress-your-images-with-tinify/>Manage image sizes with tinify</a></li><li><a href=https://chrisotto.dev/gatsby-create-an-audience-with-mailchimp/>Gatsby - Create an audience with Mailchimp</a></li>
+    <li><a href=https://chrisotto.dev/react-netlify-client-side-routing/>Netlify - Client Side Routing</a></li><li><a href=https://chrisotto.dev/gatsby-error-monitoring-with-sentry/>Gatsby Error Monitoring with Sentry</a></li><li><a href=https://chrisotto.dev/debug-gatsby-simulator/>Gatsby Develop with iOS Simulator</a></li><li><a href=https://chrisotto.dev/add-linting-to-create-react-app/>Add Linting to Create-React-App</a></li><li><a href=https://chrisotto.dev/compress-your-images-with-tinify/>Manage image sizes with tinify</a></li>
   </ul>
 <p><a href="https://www.chrisotto.dev/blog">➡️ More blog posts</a></p>
 <p><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&amp;repo=chrisotto6&amp;countColor=%237B1E7A" alt="Visitors since 11 Nov 2020"></p>
