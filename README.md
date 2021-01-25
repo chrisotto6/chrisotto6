@@ -5,5 +5,5 @@
   <ul>
     <li><a href=https://chrisotto.dev/portainer-docker-nas/>Portainer - Docker Container Manager For Your NAS</a></li><li><a href=https://chrisotto.dev/ssh-synology-nas/>Synology NAS - SSH To Find User Info</a></li><li><a href=https://chrisotto.dev/react-netlify-client-side-routing/>Netlify - Client Side Routing</a></li><li><a href=https://chrisotto.dev/gatsby-error-monitoring-with-sentry/>Gatsby Error Monitoring with Sentry</a></li><li><a href=https://chrisotto.dev/debug-gatsby-simulator/>Gatsby Develop with iOS Simulator</a></li>
   </ul>
-<p><a href="https://www.chrisotto.dev/blog">➡️ More blog posts</a></p>
+<p><a href="https://www.chrisotto.dev">➡️ More blog posts</a></p>
 <p><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&amp;repo=chrisotto6&amp;countColor=%237B1E7A" alt="Visitors since 11 Nov 2020"></p>
