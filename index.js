@@ -39,7 +39,7 @@ md.use(emoji)
 
   const text = `# Hi :wave:\n\n
   ${twitterBadge} ${linkedInBadge} ${instagramBadge} ${mediumBadge} ${devToBadge}\n\n
-  [:computer:&nbsp;Check out my website](${websiteUrl})\n\n
+  [:computer:  Check out my website](${websiteUrl})\n\n
   ## Latest Blog Posts\n
   ${blogPosts}\n
   ${visitorsBadge}`
@@ -65,6 +65,6 @@ async function loadBlogPosts() {
   <ul>
     ${links}
   </ul>\n
-  [:arrow_right:&nbsp;More blog posts](${websiteUrl})
+  [:arrow_right:  More blog posts](${websiteUrl})
   `
 }
