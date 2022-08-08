@@ -9,7 +9,7 @@ const Parser = require('rss-parser')
 
 const parser = new Parser()
 
-const feedUrl = 'https://www.chrisotto.dev/rss.xml'
+const feedUrl = 'https://chrisotto.dev/feed.xml'
 const websiteUrl = 'https://chrisotto.dev/'
 const twitterUrl = 'https://www.twitter.com/wisco_cmo'
 const linkedInUrl = 'https://www.linkedin.com/in/ottochristopher/'
