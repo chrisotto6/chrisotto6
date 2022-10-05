@@ -11,10 +11,10 @@ const parser = new Parser()
 
 const feedUrl = 'https://chrisotto.dev/feed.xml'
 const websiteUrl = 'https://chrisotto.dev/'
-const twitterUrl = 'https://www.twitter.com/wisco_cmo'
+const twitterUrl = 'https://twitter.com/chris_otto6'
 const linkedInUrl = 'https://www.linkedin.com/in/ottochristopher/'
-const instagramUrl = 'https://www.instagram.com/wisco_cmo/'
-const mediumUrl = 'https://medium.com/@wisco_cmo'
+const instagramUrl = 'https://www.instagram.com/chris_otto6/'
+const mediumUrl = 'https://medium.com/@chris_otto6'
 const devToUrl = 'https://dev.to/chrisotto'
 const blogPostLimit = 5
 const badgeHeight = '25'
