@@ -34,15 +34,12 @@ md.use(emoji)
   const instagramBadge = `[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=${badgeHeight}>](${instagramUrl})`
   const mediumBadge = `[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=${badgeHeight}>](${mediumUrl})`
   const devToBadge = `[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=${badgeHeight}>](${devToUrl})`
-  const visitorsBadge =
-    '![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&repo=chrisotto6&countColor=%237B1E7A)'
 
   const text = `# Hi :wave:\n\n
   ${twitterBadge} ${linkedInBadge} ${instagramBadge} ${mediumBadge} ${devToBadge}\n\n
   [:computer:  Check out my website](${websiteUrl})\n\n
   ## Latest Blog Posts\n
-  ${blogPosts}\n
-  ${visitorsBadge}`
+  ${blogPosts}`
 
   const result = md.render(text)
 
