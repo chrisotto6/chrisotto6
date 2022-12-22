@@ -6,4 +6,3 @@
     <li><a href=https://www.chrisotto.dev/blog/watchtower-docker-nas>Watchtower - Docker NAS Setup</a></li><li><a href=https://www.chrisotto.dev/blog/calibre-library-docker-nas>Calibre Library - Docker NAS Setup</a></li><li><a href=https://www.chrisotto.dev/blog/pihole-docker-nas>PiHole - Docker NAS Setup</a></li><li><a href=https://www.chrisotto.dev/blog/portainer-docker-nas>Portainer - Docker Container Manager For Your NAS</a></li><li><a href=https://www.chrisotto.dev/blog/ssh-synology-nas>Synology NAS - SSH To Find User Info</a></li>
   </ul>
 <p><a href="https://chrisotto.dev/">➡️  More blog posts</a></p>
-<p><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=chrisotto6&amp;repo=chrisotto6&amp;countColor=%237B1E7A" alt="Visitors since 11 Nov 2020"></p>
